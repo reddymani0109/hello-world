@@ -154,7 +154,6 @@
           <label for="male" class="radio">Male</label>
           <input type="radio" value="none" id="female" name="gender" />
           <label for="female" class="radio">Female</label>
-	<input type="radio" value="none" id="trans" name="gender" />          <label for="trans" class="radio">Trans</label>
         </div>
         <hr>
         <div class="btn-block">
