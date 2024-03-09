@@ -154,8 +154,8 @@
           <label for="male" class="radio">Male</label>
           <input type="radio" value="none" id="female" name="gender" />
           <label for="female" class="radio">Female</label>
-	<input type="radio" value="none" id="others" name="gender" />
-          <label for="others" class="radio">Others</label>
+	<input type="radio" value="none" id="other" name="gender" />
+          <label for="other" class="radio">Other</label>
         </div>
         <hr>
         <div class="btn-block">
