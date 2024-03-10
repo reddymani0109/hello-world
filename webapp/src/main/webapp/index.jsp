@@ -139,7 +139,7 @@
           <input type="radio" value="none" id="radioOne" name="account" checked/>
           <label for="radioOne" class="radio">Personal</label>
           <input type="radio" value="none" id="radioTwo" name="account" />
-          <label for="radioTwo" class="radio">Company</label>
+          <label for="radioTwo" class="radio">Organzation</label>
         </div>
         <hr>
         <label id="icon" for="name"><i class="fas fa-envelope"></i></label>
@@ -154,8 +154,6 @@
           <label for="male" class="radio">Male</label>
           <input type="radio" value="none" id="female" name="gender" />
           <label for="female" class="radio">Female</label>
-          <input type="radio" value="none" id="gay" name="gender" />
-          <label for="gay" class="radio">GAY</label>
         </div>
         <hr>
         <div class="btn-block">
