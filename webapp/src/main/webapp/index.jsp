@@ -156,7 +156,7 @@
         <hr>
         <div class="btn-block">
           <p>By clicking Register, you agree on our <a href="https://www.w3docs.com/privacy-policy">Privacy Policy for W3Docs</a>.</p>
-          <button type="submit" href="/">SEND</button>
+          <button type="submit" href="/">SUBMIT</button>
         </div>
       </form>
     </div>
