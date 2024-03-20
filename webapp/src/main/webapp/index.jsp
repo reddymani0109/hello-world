@@ -149,7 +149,7 @@
         <hr>
         <div class="gender">
           <input type="radio" value="none" id="male" name="gender" checked/>
-          <label for="male" class="radio">Male</label>
+          <label for="male" class="radio">MALE</label>
           <input type="radio" value="none" id="female" name="gender" />
           <label for="female" class="radio">Female</label>
         </div>
